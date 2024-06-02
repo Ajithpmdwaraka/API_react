@@ -1,5 +1,7 @@
-To Run
+To Run :-
+
 npm install
+
 npm run dev
 
 # React + Vite
